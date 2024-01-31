@@ -19,4 +19,6 @@
 - add images in Assets folder 
 
 ## Step 3
-- import logo and cart_icon in Navbar.jsx and 
+- import logo and cart_icon in Navbar.jsx, create nav-menu and a login button
+- Add desired css properties to the navbar, nav-logo, nav-menu and nav-login-cart
+-
