@@ -3,7 +3,7 @@
 - create a folder named frontend using
 `mkdir frontend`
 - create react app inside 'frontend'
-`npx create-react-app`
+`npx create-react-app .`
 - to start the server
 `npm run start`
 
